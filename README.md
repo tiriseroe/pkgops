@@ -1,7 +1,7 @@
 # pkgops
 Script to process text file list of packages on Ubuntu/Mint platforms
 
-pkgops, version (1.0-7) A utility to process a list of packages.
+pkgops, version (1.0-8) A utility to process a list of packages.
   Usage :  pkgops option filename
   Option:  -c   apt-get check installed status of apps
            -i   apt-get install apps
